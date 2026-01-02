@@ -23,10 +23,8 @@ I used the **MERN stack** (MongoDB, Express, React, and Node.js) to build this p
 
 ### 🚶‍♂️ Give it a spin (Test Account)
 
-You don't even have to sign up to see how it works. You can log in with the **test user** to click around and see some sample data:
-
-* **Email:** `test@mail.com`
-* **Pass:** `123123`
+You don't even have to sign up to see how it works. 
+ On the login page, simply click the **Demo App** button to jump straight into the dashboard with some sample data.
 
 ---
 
