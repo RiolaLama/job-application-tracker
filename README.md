@@ -32,7 +32,7 @@ You don't even have to sign up to see how it works.
 
 1.  **Clone the code:**
     ```bash
-    git clone [https://github.com/RiolaLama/jobster-api.git](https://github.com/RiolaLama/jobster-api.git)
+    git clone https://github.com/RiolaLama/job-application-tracker.git
     ```
 
 2.  **Install dependencies:**
